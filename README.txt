@@ -1,4 +1,16 @@
-《Phigros-解决苹果端无法云同步问题》
+# 《软件PhigrosCrossPlatformDataMigrator介绍》
+##### 欢迎使用Phigros跨系统存档迁移器 - 由SweelLong开发
+##### 功能是将安卓系统的存档数据文件（*.xml）转移至苹果系统的数据文件（*.plist）
+##### 目前仅支持将安卓存档转移为苹果存档
+##### 旨在解决苹果端不能使用云存档功能
+
+##### 源文件：com.PigeonGames.Phigros.v2.playerprefs.xml
+##### 新文件：games.Pigeon.Phigros.plist
+
+
+------------------------------------------------------
+
+#《Phigros-解决苹果端无法云同步问题》
 
 本人高考后入手新iPad想玩继续游玩该游戏
 发现苹果端无法同步之前的数据就多方查询
