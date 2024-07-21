@@ -64,7 +64,7 @@
 选择Container-Library-Preferences使用第三步生成的文件并覆盖
 接着再次打开iMazing，这次选择恢复数据文件![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/15.png)，选择覆盖后的文件，按照提示完成操作
 请注意待设备恢复后重新开机时在iPad已进行部分设置界面要选择保留部分设置并继续（否则iPad将会被抹除！！！）
-![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/16.JPG)
+![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/16.png)
 
 ## 第五步再次打开Phigros
-![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/17.png)大功告成，最后别忘了重新打开查找功能哦！
+![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/17.png)![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/18.png)大功告成，最后别忘了重新打开查找功能哦！
