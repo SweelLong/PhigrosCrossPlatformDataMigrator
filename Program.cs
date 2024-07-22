@@ -1,5 +1,5 @@
 ﻿using System.Xml;
-
+// 代码写的有点史，不能能运行就好啦
 namespace PhigrosCrossPlatformDataMigrator
 {
     internal class Program
