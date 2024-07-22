@@ -22,7 +22,17 @@
 ### 目标是将安卓端的存档数据文件转至苹果端
 ### 源文件：com.PigeonGames.Phigros.v2.playerprefs.xml
 ### 新文件：games.Pigeon.Phigros.plist
-
+---
+### 准备工具
+#### 操作系统：Windows系统、IOS系统
+#### 硬件需求：USB-C(旧版lighting) - USB-A数据线、支持虚拟化的电脑、苹果端设备
+#### 软件需求：安卓手机模拟器.exe、Phigros.apk、phigros.ipa、iMazing.exe、Phigros跨系统存档迁移器.exe
+### 下载地址
+#### 雷电模拟器9：www.ldmnq.com
+#### TapTap：www.taptap.cn/mobile
+#### iMazing：imazing.com/zh/download
+#### Phigros跨系统存档迁移器：上面自取哦
+---
 ## 第一步获取安卓端存档：
 ##### 提取的方法有很多哈，需要Root（直接操作）和无需Root（连接电脑）的都有
 ##### 网络上有一种[安卓手机无需root的方法](https://docs.qq.com/doc/DZm9FSUZSRUZBekhB)
