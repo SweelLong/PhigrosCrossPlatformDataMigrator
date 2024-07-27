@@ -74,19 +74,21 @@ namespace PhigrosCrossPlatformDataMigrator
                     if (line.Contains("<key>"))
                     {
                         string[] strings = line.Split(new string[] { "<key>", "</key>" }, StringSplitOptions.None);
-                        GetNames.Add(ToIOS_Mode(strings[1]));
+                        GetNames.Add(ToAndroid_Mode(strings[1]));
                     }
                     if (line.Contains("<string>"))
                     {
                         string[] strings = line.Split(new string[] { "<string>", "</string>" }, StringSplitOptions.None);
-                        GetValues.Add(ToIOS_Mode(strings[1]));
+                        GetValues.Add(ToAndroid_Mode(strings[1]));
                     }
                 }
                 Names = GetNames.ToArray();
                 Values = GetValues.ToArray();
                 StreamWriter streamWriter = new(Android);
-                streamWriter.WriteLine("<?xml version='1.0' encoding='utf-8' standalone='yes' ?>");
+                streamWriter.WriteLine("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>");
                 streamWriter.WriteLine("<map>");
+                streamWriter.WriteLine("<int name=\"NeedUpdateSongsData\" value=\"4\" />");
+                streamWriter.WriteLine("<int name=\"setDspBuffer\" value=\"1\" />");
                 if (Names.Length != Values.Length)
                 {
                     Console.WriteLine("XML文件出错");
