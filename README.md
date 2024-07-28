@@ -1,3 +1,7 @@
+# 目录
+- [软件介绍](# 《软件PhigrosCrossPlatformDataMigrator介绍》)
+- [苹果->安卓](# 《Phigros-解决苹果端无法云同步问题》)
+
 # 《软件PhigrosCrossPlatformDataMigrator介绍》
 ### 欢迎使用Phigros跨系统存档迁移器 - 由SweelLong开发
 ##### 功能是将安卓系统的存档数据文件（*.xml）转移至苹果系统的数据文件（*.plist）
@@ -78,3 +82,6 @@
 
 ## 第五步再次打开Phigros
 ![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/17.png)![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/18.png)大功告成，最后别忘了重新打开查找功能哦！
+
+---
+
