@@ -1,6 +1,7 @@
 # 目录
 - [软件介绍](#软件PhigrosCrossPlatformDataMigrator介绍)
-- [苹果->安卓](#Phigros-解决苹果端无法云同步问题)
+- [安卓 -> 苹果](#Phigros-解决苹果端无法云同步问题)
+- [苹果 -> 安卓](#苹果端转回安卓端进行云存档的逆向操作)
 
 # 软件PhigrosCrossPlatformDataMigrator介绍
 - 欢迎使用Phigros跨系统存档迁移器 - 由SweelLong开发
@@ -13,6 +14,7 @@
 - 新文件：games.Pigeon.Phigros.plist
 
 ### [点击立即前往下载](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/releases/tag/v2.0.0.0)
+
 ---
 
 # Phigros-解决苹果端无法云同步问题
@@ -84,3 +86,5 @@
 
 ---
 
+# 苹果端转回安卓端进行云存档的逆向操作
+- 未完待续...
