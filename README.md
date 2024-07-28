@@ -8,7 +8,7 @@
 ##### 源文件：com.PigeonGames.Phigros.v2.playerprefs.xml
 ##### 新文件：games.Pigeon.Phigros.plist
 
-### [点击立即前往下载](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/releases/tag/v1.0.0.0)
+### [点击立即前往下载](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/releases/tag/v2.0.0.0)
 ---
 
 # 《Phigros-解决苹果端无法云同步问题》
