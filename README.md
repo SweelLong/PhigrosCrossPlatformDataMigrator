@@ -1,6 +1,6 @@
 # 目录
-- [软件介绍](# 《软件PhigrosCrossPlatformDataMigrator介绍》)
-- [苹果->安卓](# 《Phigros-解决苹果端无法云同步问题》)
+- [软件介绍](#《软件PhigrosCrossPlatformDataMigrator介绍》)
+- [苹果->安卓](#《Phigros-解决苹果端无法云同步问题》)
 
 # 《软件PhigrosCrossPlatformDataMigrator介绍》
 ### 欢迎使用Phigros跨系统存档迁移器 - 由SweelLong开发
