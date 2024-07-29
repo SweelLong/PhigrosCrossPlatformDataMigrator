@@ -30,7 +30,7 @@
 - 准备工具
 - 操作系统：Windows系统、IOS系统
 - 硬件需求：USB-C(旧版lighting) - USB-A数据线、支持虚拟化的电脑、苹果端设备
-- 软件需求：安卓手机模拟器.exe、Phigros.apk、phigros.ipa、iMazing.exe、Phigros跨系统存档迁移器.exe
+- 软件需求：安卓手机模拟器.exe、Phigros.apk、phigros.ipa、iMazing.exe、Phigros跨系统存档迁移器.exe、压缩软件.exe
 - 下载地址
 - 雷电模拟器9：www.ldmnq.com
 - TapTap：www.taptap.cn/mobile
@@ -87,4 +87,46 @@
 ---
 
 # 苹果端转回安卓端进行云存档的逆向操作
-- 未完待续...
+
+- 准备工具
+- 操作系统：Windows系统、IOS系统
+- 硬件需求：USB-C(旧版lighting) - USB-A数据线、支持虚拟化的电脑、苹果端设备
+- 软件需求：安卓手机模拟器.exe、Phigros.apk、phigros.ipa、iMazing.exe、Phigros跨系统存档迁移器.exe、压缩软件.exe
+- 下载地址
+- 雷电模拟器9：www.ldmnq.com
+- TapTap：www.taptap.cn/mobile
+- iMazing：imazing.com/zh/download
+- Phigros跨系统存档迁移器：上面自取哦
+- 
+## 第一步获取苹果端的存档文件
+- 同理，打开iMzing备份本地Phigros存档
+![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/17.png)![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/10.png)
+![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/17.png)![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/11.png)
+![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/17.png)![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/12.png)
+- 完成后获取Phigros.imazingapp文件
+- 接着使用压缩软件打开获取到的文件
+![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/14.png)
+- 在Container-Library-Preferences中解压出games.Pigeon.Phigros.plist文件
+- 此刻成功获取到了苹果端的存档文件！
+
+## 第二步将存档迁移至安卓端
+- 打开最新版本工具Phigros跨系统存档迁移器_v2.1_x64.exe
+- 将获取到的苹果端存档games.Pigeon.Phigros.plist放置到工具所在的文件夹，并打开工具
+- 在选择迁移模式的时候，输入2回车
+  ![7f69701249d51c6234b2eb93c4c82ae5](https://github.com/user-attachments/assets/3020d0cc-9c9a-405b-9352-419a9f2feb67)
+  ![008bbde2a9f4ff8e1f22d7affbd2bbc4](https://github.com/user-attachments/assets/a9ff76c7-eaa9-4896-a48d-091ca035ba08)
+- 即可获得上图所示③的安卓存档文件com.PigeonGames.Phigros.v2.playerprefs.xml
+
+## 第三步将安卓存档导入模拟器并同步
+- 确保模拟器启用了ROOT权限且安装了Phigros（不会的请看上一个模块）
+- 将迁移后的安卓存档文件导入（粘贴）到共享文件夹中
+![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/7.png)
+- 在模拟器中找到共享文件夹，左上角菜单，选择内部共享储存空间
+- ![QQ_1722221795461](https://github.com/user-attachments/assets/adecd407-db3f-451f-97ff-e2a12b8e3dbe)
+- 打开Pictures文件夹，即可在模拟器中看到导入的存档文件，请将该文件选中
+![QQ_1722221881843](https://github.com/user-attachments/assets/81901572-0000-45a1-b09c-da431d4f39b0)
+- 接着点击菜单，根目录-data-data-com.PigeonGames.Phigros-shared_prefs并将文件移至此处，并确保日期与移动时间保持一致
+![QQ_1722222028131](https://github.com/user-attachments/assets/ee33ffa1-63b8-412d-adff-3a59d4e4e47f)
+![QQ_1722222080359](https://github.com/user-attachments/assets/8dc883eb-ece9-4375-abec-25342bce6e18)
+- 再次打开游戏，大功告成！
+
