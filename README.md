@@ -113,7 +113,7 @@
 - 打开最新版本工具Phigros跨系统存档迁移器_v2.1_x64.exe
 - 将获取到的苹果端存档games.Pigeon.Phigros.plist放置到工具所在的文件夹，并打开工具
 - 在选择迁移模式的时候，输入2回车
-  ![7f69701249d51c6234b2eb93c4c82ae5](https://github.com/user-attachments/assets/3020d0cc-9c9a-405b-9352-419a9f2feb67)
+![7f69701249d51c6234b2eb93c4c82ae5](https://github.com/user-attachments/assets/3020d0cc-9c9a-405b-9352-419a9f2feb67)
   ![008bbde2a9f4ff8e1f22d7affbd2bbc4](https://github.com/user-attachments/assets/a9ff76c7-eaa9-4896-a48d-091ca035ba08)
 - 即可获得上图所示③的安卓存档文件com.PigeonGames.Phigros.v2.playerprefs.xml
 
@@ -122,7 +122,7 @@
 - 将迁移后的安卓存档文件导入（粘贴）到共享文件夹中
 ![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/7.png)
 - 在模拟器中找到共享文件夹，左上角菜单，选择内部共享储存空间
-- ![QQ_1722221795461](https://github.com/user-attachments/assets/adecd407-db3f-451f-97ff-e2a12b8e3dbe)
+![QQ_1722221795461](https://github.com/user-attachments/assets/adecd407-db3f-451f-97ff-e2a12b8e3dbe)
 - 打开Pictures文件夹，即可在模拟器中看到导入的存档文件，请将该文件选中
 ![QQ_1722221881843](https://github.com/user-attachments/assets/81901572-0000-45a1-b09c-da431d4f39b0)
 - 接着点击菜单，根目录-data-data-com.PigeonGames.Phigros-shared_prefs并将文件移至此处，并确保日期与移动时间保持一致
