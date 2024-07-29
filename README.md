@@ -100,9 +100,9 @@
 - 
 ## 第一步获取苹果端的存档文件
 - 同理，打开iMzing备份本地Phigros存档
-![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/17.png)![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/10.png)
-![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/17.png)![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/11.png)
-![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/17.png)![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/12.png)
+![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/10.png)
+![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/11.png)
+![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/12.png)
 - 完成后获取Phigros.imazingapp文件
 - 接着使用压缩软件打开获取到的文件
 ![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/14.png)
