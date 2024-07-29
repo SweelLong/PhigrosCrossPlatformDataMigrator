@@ -97,7 +97,7 @@
 - TapTap：www.taptap.cn/mobile
 - iMazing：imazing.com/zh/download
 - Phigros跨系统存档迁移器：上面自取哦
-- 
+
 ## 第一步获取苹果端的存档文件
 - 同理，打开iMzing备份本地Phigros存档
 ![icon](https://github.com/SweelLong/PhigrosCrossPlatformDataMigrator/blob/main/Phigros-%E8%A7%A3%E5%86%B3%E8%8B%B9%E6%9E%9C%E7%AB%AF%E6%97%A0%E6%B3%95%E4%BA%91%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98/10.png)
