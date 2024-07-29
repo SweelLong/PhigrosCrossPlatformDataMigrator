@@ -1,4 +1,4 @@
-# 目录
+# 目录（若无法查看图片请自行开个steamcommunity302本地反代）
 - [软件介绍](#软件PhigrosCrossPlatformDataMigrator介绍)
 - [安卓 -> 苹果](#Phigros-解决苹果端无法云同步问题)
 - [苹果 -> 安卓](#苹果端转回安卓端进行云存档的逆向操作)
