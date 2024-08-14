@@ -130,3 +130,12 @@
 ![QQ_1722222080359](https://github.com/user-attachments/assets/8dc883eb-ece9-4375-abec-25342bce6e18)
 - 再次打开游戏，大功告成！
 
+## 倘若出现文件大小过小的情况的解决方案
+用爱思助手打开plist文件，以xml形式导出，确保能够用文本编辑器正常打开
+删除以下内容：
+![1c3a3fd976b0d8f54cd41e57eab384de](https://github.com/user-attachments/assets/50865005-c941-4c49-a30c-6ad3d88ffe2f)
+![9e33498b52c6a18bae37b1a5ffa0fcfc](https://github.com/user-attachments/assets/4c99bf8c-55ef-4345-a89f-c39ce6a7c683)
+![2093b01291c7342dca3e86b563c681a7](https://github.com/user-attachments/assets/92a36c65-86fe-417f-9d49-a50bc76299cd)
+![b7490858d503d682b6d3e56c6964b2d5](https://github.com/user-attachments/assets/3e841a10-3ea2-44e4-b3f5-1af776f97534)
+![622992be96a26dd8e4d6dd32fd828af1](https://github.com/user-attachments/assets/7499c155-dac2-4c6e-9aaf-207665a5d3de)
+保存后，用转移软件转移这个新保存的plist文件即可（由于Phigros恢复云存档功能，故我不会将软件升级以解决！）
